@@ -5,7 +5,7 @@
 <head>
        <style>
       body {
-        background-color: rgb(233, 127, 127); /* O el color que prefieras */
+        background-color: rgb(233, 127, 127); 
       }
     </style>
     <meta charset="UTF-8">
